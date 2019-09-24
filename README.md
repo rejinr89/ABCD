@@ -17,6 +17,7 @@ CSS Tricks:
 https://css-tricks.com/
 
 
+
 Bootstrap:
 
 
@@ -35,6 +36,7 @@ Start Bootstrap:
 https://startbootstrap.com/
 
 
+
 JavaScript:
 
 
@@ -49,6 +51,7 @@ https://www.youtube.com/watch?v=PkZNo7MFNFg
 
 Udacity Tutorial
 https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
+
 
 
 
