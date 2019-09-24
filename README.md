@@ -1,4 +1,4 @@
-HTML & CSS Resources:
+HTML & CSS:
 
 
 Net Ninja HTML Tutorial: 
@@ -17,7 +17,25 @@ CSS Tricks:
 https://css-tricks.com/
 
 
-JavaScript Resources:
+Bootstrap:
+
+
+Bootstrap Official Documentation
+https://getbootstrap.com/docs/4.3/getting-started/introduction/
+
+Responsive Bootstrap Website Start To Finish with Bootstrap 4, HTML5 & CSS3
+https://www.youtube.com/watch?v=9cKsq14Kfsw&t=2007s
+
+Bootstrap 4 in 2018 - Free Crash Course of 4.0.0
+https://www.youtube.com/watch?v=hnCmSXCZEpU&t=1263s
+
+Bootsnip:
+https://bootsnipp.com
+Start Bootstrap:
+https://startbootstrap.com/
+
+
+JavaScript:
 
 
 JavaScript tutorial Net Ninja:
@@ -33,6 +51,7 @@ Udacity Tutorial
 https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
 
 
+
 Angular:
 
 Angular Tutorial for Beginners Mosh Hamedani
@@ -43,4 +62,3 @@ https://www.youtube.com/watch?v=_TLhUCjY9iA
 
 Angular.io Tour of Heroes
 https://angular.io/tutorial
-
