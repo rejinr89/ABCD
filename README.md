@@ -31,3 +31,16 @@ https://www.youtube.com/watch?v=PkZNo7MFNFg
 
 Udacity Tutorial
 https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
+
+
+Angular:
+
+Angular Tutorial for Beginners Mosh Hamedani
+https://www.youtube.com/watch?v=k5E2AVpwsko
+
+Learn Angular 8 from Scratch for Beginners - Crash Course
+https://www.youtube.com/watch?v=_TLhUCjY9iA
+
+Angular.io Tour of Heroes
+https://angular.io/tutorial
+
