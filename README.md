@@ -1,4 +1,5 @@
-HTML & CSS:
+HTML & CSS Resources:
+
 Net Ninja HTML Tutorial: 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc
 
@@ -14,7 +15,7 @@ https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw/playlists
 CSS Tricks:
 https://css-tricks.com/
 
-JavaScript:
+JavaScript Resources:
 JavaScript tutorial Net Ninja:
 https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET
 
