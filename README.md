@@ -46,6 +46,20 @@ Udacity Tutorial
 https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
 
 
+
+Javascript DOM:
+
+JavaScript DOM Tutorial- Net Ninja
+https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V
+
+Ajax Tutorial:
+
+JSON and AJAX Tutorial: With Real Examples
+https://www.youtube.com/watch?v=rJesac0_Ftw
+
+AJAX Crash Course (Vanilla JavaScript)
+https://www.youtube.com/watch?v=82hnvUYY6QA&t=122s
+
 Angular:
 
 Angular Tutorial for Beginners Mosh Hamedani
@@ -65,4 +79,7 @@ https://www.youtube.com/watch?v=WBPrJSw7yQA
 
 Traversery Media: Typescript tutorial for beginners
 https://www.youtube.com/watch?v=rAy_3SIqT-E
+
+
+JavaScript Applications:
 
