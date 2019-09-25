@@ -1,6 +1,5 @@
 HTML & CSS:
 
-
 Net Ninja HTML Tutorial: 
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc
 
@@ -16,10 +15,7 @@ https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw/playlists
 CSS Tricks:
 https://css-tricks.com/
 
-
-
 Bootstrap:
-
 
 Bootstrap Official Documentation
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
@@ -35,10 +31,7 @@ https://bootsnipp.com
 Start Bootstrap:
 https://startbootstrap.com/
 
-
-
 JavaScript:
-
 
 JavaScript tutorial Net Ninja:
 https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET
@@ -53,8 +46,6 @@ Udacity Tutorial
 https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
 
 
-
-
 Angular:
 
 Angular Tutorial for Beginners Mosh Hamedani
@@ -65,3 +56,13 @@ https://www.youtube.com/watch?v=_TLhUCjY9iA
 
 Angular.io Tour of Heroes
 https://angular.io/tutorial
+
+
+TypeScript:
+
+Learn TypeScript in 50 Minutes - Tutorial for Beginners
+https://www.youtube.com/watch?v=WBPrJSw7yQA
+
+Traversery Media: Typescript tutorial for beginners
+https://www.youtube.com/watch?v=rAy_3SIqT-E
+
